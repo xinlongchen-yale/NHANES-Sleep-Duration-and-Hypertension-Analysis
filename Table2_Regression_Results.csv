@@ -1,0 +1,3 @@
+Model,Short Sleep OR,Short 95% CI,Short p,Long Sleep OR,Long 95% CI,Long p
+Model 1,1.06,1.06-1.06,0.0000,1.13,1.13-1.14,0.0000
+Model 2 (Primary),0.90,0.90-0.90,0.0000,1.05,1.04-1.05,0.0000
